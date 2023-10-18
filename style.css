@@ -1,0 +1,104 @@
+.ctn {
+      display: flex;
+      justify-content: center;
+}
+
+.intro {
+      width: 25%;
+      padding-left: 1%;
+      padding-right: 1%;
+      margin-left: 3%;
+      margin-top: 5%;
+      margin-bottom: 10%;
+      padding-top: 5%;
+      padding-bottom: 5%;
+      text-align: center;
+      /* Center-align the text */
+      background-image: url('R.jpg');
+      /* Set the background image */
+      background-size: contain;
+      color: white;
+      /* Change the text color to a contrasting color */
+      font-family: 'Arial', sans-serif;
+      /* Set your desired font */
+      word-wrap: break-word;
+      /* Automatically break long words to the next line */
+      border-radius: 8px;
+}
+
+.c1 {
+
+      margin-top: 5%;
+      width: 95%;
+      height: 300PX;
+      /* Set the desired width for the div */
+
+      /* This is the aspect ratio (4:3), adjust as needed */
+      margin: auto;
+      /* Initialize the height to zero */
+      background-color: brown;
+      object-fit: contain;
+
+      text-align: center;
+      background-image: url('mmin.jpg');
+      /* Set the background image */
+      background-size: contain;
+      /* Make the background image fit within the div without cropping */
+
+}
+
+.ctn2 {
+      margin-top: 5%;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 5%;
+}
+
+.im {
+      width: 50%;
+}
+
+img {
+      width: 100%;
+      height: auto;
+}
+
+.para {
+      width: 50%;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding-left: 1%;
+      padding-right: 1%;
+
+
+}
+
+.yr {
+      color: rgb(255, 0, 195);
+      background-color: aqua;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+      margin-left: 5%;
+}
+
+
+
+
+
+
+
+.f {
+
+      position: fixed;
+      top: 0px;
+}
+
+.po {
+      margin-top: 10%;
+}
